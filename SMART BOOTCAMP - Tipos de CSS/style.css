@@ -1,0 +1,31 @@
+.card_border {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px gold;
+    margin: 20px;
+    padding: 20px;
+}
+
+.icone2_border {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    content: url(https://cdn-icons-png.flaticon.com/256/3681/3681928.png);
+}
+
+.text_title {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+i {
+    color: navy;
+}
+
+p {
+    font-family: monospace;
+    font-size: 15px;
+}
